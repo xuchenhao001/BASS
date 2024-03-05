@@ -1,0 +1,8 @@
+torch~=2.0.1
+torchvision~=0.15.2
+numpy~=1.24.3
+scikit-learn~=1.2.2
+pandas~=2.0.1
+hickle~=5.0.2
+matplotlib~=3.7.1
+cycler~=0.11.0
